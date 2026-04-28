@@ -52,6 +52,15 @@ The first version tracks papers and systems that are especially relevant to:
 
 For a longer table with links and categories, see [papers/monocular-depth-sota.md](papers/monocular-depth-sota.md).
 
+## Companion Project Repositories
+
+These repositories turn selected SOTA models into focused portfolio projects by copying the original codebase and adding my own research notes, evaluation scaffolding, and comparison plans.
+
+| Repository | Upstream Model | My Additions |
+| --- | --- | --- |
+| [depth-pro-research](https://github.com/XuetongFeng/depth-pro-research) | [apple/ml-depth-pro](https://github.com/apple/ml-depth-pro) | Boundary/focal-length notes, evaluation manifest, comparison plan |
+| [depth-anything-research](https://github.com/XuetongFeng/depth-anything-research) | [DepthAnything/Depth-Anything-V2](https://github.com/DepthAnything/Depth-Anything-V2) | Family map, model-selection notes, evaluation manifest, comparison plan |
+
 ## Reading Path
 
 1. Start with MiDaS and DPT to understand robust relative depth and transformer dense prediction.
@@ -89,4 +98,3 @@ For a longer table with links and categories, see [papers/monocular-depth-sota.m
 ## Disclaimer
 
 This repository is a curated research tracker. It does not claim to be an official leaderboard. SOTA status can depend on benchmark, training data, evaluation protocol, resolution, camera model, and whether metric scale is required.
-
