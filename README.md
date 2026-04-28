@@ -60,6 +60,8 @@ These repositories turn selected SOTA models into focused portfolio projects by 
 | --- | --- | --- |
 | [depth-pro-research](https://github.com/XuetongFeng/depth-pro-research) | [apple/ml-depth-pro](https://github.com/apple/ml-depth-pro) | Boundary/focal-length notes, evaluation manifest, comparison plan |
 | [depth-anything-research](https://github.com/XuetongFeng/depth-anything-research) | [DepthAnything/Depth-Anything-V2](https://github.com/DepthAnything/Depth-Anything-V2) | Family map, model-selection notes, evaluation manifest, comparison plan |
+| [metric3d-research](https://github.com/XuetongFeng/metric3d-research) | [YvanYin/Metric3D](https://github.com/YvanYin/Metric3D) | Metric geometry notes, depth/normal manifest, comparison plan |
+| [vggt-research](https://github.com/XuetongFeng/vggt-research) | [facebookresearch/vggt](https://github.com/facebookresearch/vggt) | Spatial intelligence notes, scene manifest, comparison plan |
 
 ## Reading Path
 
